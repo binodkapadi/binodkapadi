@@ -29,12 +29,14 @@
 `Git` • `GitHub` • `CI/CD` • `Jenkins` • `Vercel` • `Netlify`  
 `Jupyter` • `Postman` • `Figma` • `Canva`
 
-# 📊 GitHub Stats:
+# 📊 Current GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
+
+# GitHub Streaks 🔥
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
@@ -44,9 +46,23 @@
 ![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 
-### 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]  
-<img src="https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg" 
-     style="border: 3px solid #ffcc00; border-radius: 10px;" />
+### 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!] 
+![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
+
+# 📌 Featured Projects
+### 🔷 AI / ML Projects
+     - 🧠 ML Model Training & Testing Suite — Data preprocessing, training, evaluation scripts
+     - 🤖 AI Agents — Automated LLM-powered agents for workflow automation
+     - 📊 Data Analysis Projects — EDA, dashboards, pipelines
+
+### 🔷 Full-Stack Projects
+     - 🌐 Web Apps using React + Node.js
+     - 🗃 API & Database-driven Applications
+     - 📦 Backend development with Express / Django / Flask
+     - 📝 Interactive apps using Streamlit (e.g., Note Summarizer, Code Explainer)
+
+### 🔷 DSA & Coding
+     - 🔢 LeetCode + DSA Practice Repo(C++ & Java)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binu3421) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binod901) 
