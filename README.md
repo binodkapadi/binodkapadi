@@ -13,12 +13,8 @@
 <!-- First Row: GitHub Stats + Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="180" style="border: 3px solid #ffcc00; border-radius: 10px;" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&theme=tokyonight&hide_border=true&layout=compact" height="180" style="border: 3px solid #ffcc00; border-radius: 10px;" />
 </p>
-
-<!-- Space between rows -->
-<br>
 
 <!-- Second Row: Streak Stats -->
 <p align="center">
