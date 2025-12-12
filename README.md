@@ -1,93 +1,126 @@
-<!-- Banner (replace URL with your own animated GIF or image) -->
+<!-- =================================================================== -->
+<!--                    ✨ BINOD KAPADI — PREMIUM README ✨                -->
+<!-- =================================================================== -->
+
+<div align="center">
+
+# 👋 Hi, I'm <span style="color:#00f0ff;">Binod Kapadi</span>  
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F0FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Developer+%7C+Data+Scientist;Full-Stack+Developer+%7C+MLOps+Practitioner;I+Build+AI+Agents+%26+Intelligent+Systems" />
+
+---
+
+## 🌌 About Me  
+AI/ML Engineer, Data Scientist & Full-Stack Developer passionate about building  
+**intelligent systems, automations, scalable APIs, and ML pipelines**.  
+I turn ideas into working AI solutions — fast, clean & production-ready.
+
+🔭 *Currently working on:*  
+• AI Agents, ML models, and full-stack apps  
+• MLOps pipelines & model deployment  
+
+👯 *Collaborating on:*  
+• AI/ML projects  
+• Agentic systems  
+• Real-world data solutions  
+
+🌱 *Learning:*  
+• Deep Learning  
+• Data Engineering workflows  
+• Modern MLOps tools  
+
+💬 *Ask me about:*  
+AI/ML, Python, Data Science, FastAPI, Agents, Cloud, APIs, Deployment
+
+---
+
+# 🧠 Tech Stack  
+### **AI / Machine Learning**
+`Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `Pandas` • `NumPy`  
+`MLflow` • `Keras` • `OpenCV` • `NLP` • `Plotly` • `SciPy`
+
+### **Data Engineering**
+`Apache Hadoop` • `Spark` • `Airflow` • `ETL Pipelines`  
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Supabase`  
+
+### **Backend & Cloud**
+`FastAPI` • `Django` • `Node.js` • `Express`  
+`Docker` • `Kubernetes` • `Azure` • `AWS` • `Google Cloud`  
+
+### **Frontend & Mobile**
+`React` • `Next.js` • `Tailwind` • `JavaScript`  
+`Flutter` • `HTML` • `CSS`  
+
+### **DevOps & Tools**
+`Git` • `GitHub` • `CI/CD` • `Jenkins` • `Vercel` • `Netlify`  
+`Jupyter` • `Postman` • `Figma` • `Canva`
+
+---
+
+# 📊 GitHub Insights (Dark Premium Style)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/binodkapadi/binodkapadi/main/banner.gif" alt="animated-banner" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&theme=tokyonight&hide_border=true&layout=compact" height="170" />
 </p>
 
-# 👋 Hi, I'm Binod Kapadi
-
-**AI/ML Engineer · Data Scientist · Data Engineer · MLOps · Full-Stack Developer · Student**
-
-I build intelligent systems, train and deploy ML models, create agents and automation tools, and develop modern full-stack applications. I share open-source projects, learning resources, and production-ready code.
-
----
-
-## 🔭 Currently
-- Building & deploying ML models and agents  
-- Working on data pipelines, model evaluation, and MLOps automation  
-- Building full-stack apps (React + Node/Flask/Django) and APIs
-
-## 🌱 I’m learning
-Distributed systems, advanced deep learning (optimization & RL), and production MLOps patterns.
-
-## 💬 Ask me about
-Python, TensorFlow / PyTorch, model training & testing, data engineering, SQL/NoSQL, Docker, React, Node.js, REST APIs, prompt engineering, and automation agents.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-`Python` · `JavaScript` · `TypeScript` · `SQL` · `C/C++` · `React` · `Node.js` · `Flask` · `Django`
-
-**Machine Learning**
-`TensorFlow` · `PyTorch` · `Scikit-Learn` · `Pandas` · `NumPy` · `Jupyter`
-
-**Databases & Data**
-`PostgreSQL` · `MySQL` · `MongoDB` · `BigQuery` · `Airflow` (ETL)
-
-**DevOps / MLOps**
-`Docker` · `Git` · `GitHub Actions` · `CI/CD` · `Kubernetes` · `Model Deployment`
-
----
-
-## 🔖 Quick Skill Badges
-<!-- Replace "binodkapadi" with your username where required for dynamic badges if needed -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-> Short, descriptive features — link these to the actual repos in your account.
-
-- **ML-Training-Suite** — End-to-end training + evaluation notebooks, pre-processing pipelines, hyperparameter tuning examples.  
-- **LLM-Agents** — Small autonomous agents built with LLMs to automate tasks and workflows.  
-- **FullStack-App** — Demo React frontend + Node/Express backend with user auth and API integrations.  
-- **Data-Pipelines** — Example ETL pipelines, scheduling with Airflow, and streaming demos.  
-- **DSA-Practice** — Collection of data structures & algorithm solutions (practice & interview prep).
-
-*(Replace titles & descriptions with the exact repo names and one-line descriptions for each.)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img alt="Binod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&theme=transparent" />
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-(If you want a prettier contribution graph, consider adding `activity-graph` or `github-views` widgets.)
+# 🐍 GitHub Contribution Snake (Dark Mode)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=binodkapadi&theme=github)
+<div align="center">
+  <img 
+       src="https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation" />
+</div>
+
+> ✔️ This snake auto-updates based on **your actual GitHub activity**.
 
 ---
 
-## 🐍 Add a GitHub "Snake" (animated contribution visual)
-You can add an animated contribution snake using the `Platane/snk` action or similar GH Action that outputs `github-snake.svg`. Steps:
+# 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
-1. Add a workflow to `.github/workflows/snake.yml` in this repo (example generator action from `Platane/snk` or any repo that generates `github-snake.svg`).  
-2. Commit the generated `github-snake.svg` to the repo root (or keep it in `output/`).  
-3. Include the image in README:
+---
 
-```md
-<!-- Github contribution snake (generated via GH Action) -->
-![github-snake](./github-snake.svg)
+# 🧩 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# ✨ Random Dev Quote
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/binodkapadi"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+  <a href="https://instagram.com/binodbhatt9865"><img src="https://skillicons.dev/icons?i=instagram" height="45"></a>
+  <a href="https://facebook.com/royalbinod.kapadi"><img src="https://skillicons.dev/icons?i=facebook" height="45"></a>
+  <a href="https://discord.gg/hackerboy_0"><img src="https://skillicons.dev/icons?i=discord" height="45"></a>
+  <a href="https://x.com/kapadibinod"><img src="https://skillicons.dev/icons?i=twitter" height="45"></a>
+  <a href="mailto:binoddattkapadi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+</p>
+
+---
+
+# ☕ Support My Work
+<p align="center">
+ <a href="https://buymeacoffee.com/binu3421"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+ <a href="https://ko-fi.com/binod901"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ Built with ❤️ & AI — README by GPRM + ChatGPT</p>
+
