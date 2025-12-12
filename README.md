@@ -43,12 +43,11 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
