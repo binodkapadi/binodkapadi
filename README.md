@@ -11,23 +11,23 @@
 
 
 # 🧠 Tech Stack(Organized):  
-### **AI / Machine Learning**
+#### **AI / Machine Learning**
 `Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `Pandas` • `NumPy`  
 `MLflow` • `Keras` • `OpenCV` • `NLP` • `Plotly` • `SciPy`
 
-### **Data Engineering**
+#### **Data Engineering**
 `Apache Hadoop` • `Spark` • `Airflow` • `ETL Pipelines`  
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Supabase`  
 
-### **Backend & Cloud**
+#### **Backend & Cloud**
 `FastAPI` • `Django` • `Node.js` • `Express`  
 `Docker` • `Kubernetes` • `Azure` • `AWS` • `Google Cloud`  
 
-### **Frontend & Mobile**
+#### **Frontend & Mobile**
 `React` • `Next.js` • `Tailwind` • `JavaScript`  
 `Flutter` • `HTML` • `CSS`  
 
-### **DevOps & Tools**
+#### **DevOps & Tools**
 `Git` • `GitHub` • `CI/CD` • `Jenkins` • `Vercel` • `Netlify`  
 `Jupyter` • `Postman` • `Figma` • `Canva`
 
@@ -47,27 +47,27 @@
 ![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 
-## 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]: 
+### 🐍 Thanks for Visiting my GitHub Profile : 
 ![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
 
 
 # 📌 Featured Projects:
-### 🔷 AI / ML Projects
+#### 🔷 AI / ML Projects
      - 🧠 ML Model Training & Testing Suite — Data preprocessing, training, evaluation scripts
      - 🤖 AI Agents — Automated LLM-powered agents for workflow automation
      - 📊 Data Analysis Projects — EDA, dashboards, pipelines
 
-### 🔷 Full-Stack Projects
+#### 🔷 Full-Stack Projects
      - 🌐 Web Apps using React + Node.js
      - 🗃 API & Database-driven Applications
      - 📦 Backend development with Express / Django / Flask
      - 📝 Interactive apps using Streamlit (e.g., Note Summarizer, Code Explainer)
 
-### 🔷 DSA & Coding
+#### 🔷 DSA & Coding
      - 🔢 LeetCode + DSA Practice Repo(C++ & Java)
 
 
-## 💰 You can help me by Donating:
+### 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binu3421) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binod901) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
