@@ -11,13 +11,14 @@
 # 📊 GitHub Insights (Dark Premium Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400&theme=tokyonight&hide_border=true"  height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400&theme=tokyonight&hide_border=true"  height="180" />
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=true" />
 </p>
+
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
