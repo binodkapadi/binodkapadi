@@ -40,28 +40,17 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
 
-# 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=true&margin-w=10" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
 
----
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
-# 🧩 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
----
 
-# ✨ Random Dev Quote
-<p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=binodkapadi&icon=0&color=0)](https://visitcount.itsvg.in)
-
+--- [![](https://visitcount.itsvg.in/api?id=binodkapadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]  
 ![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
