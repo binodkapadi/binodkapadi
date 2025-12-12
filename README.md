@@ -10,19 +10,13 @@
 
 # 📊 GitHub Insights (Dark Premium Style)
 
-<!-- First Row: GitHub Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="180" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400" />
 </p>
 
-<!-- Space between rows -->
-<br>
-
-<!-- Second Row: Streak Stats -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=true" />
 </p>
 
 # 📊 GitHub Stats: 
