@@ -11,7 +11,8 @@
 # 📊 GitHub Insights (Dark Premium Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&theme=tokyonight&hide_border=true&layout=compact" height="170" />
 </p>
 
