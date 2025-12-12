@@ -40,20 +40,13 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
-
-### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
-
 ### 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 
---- [![](https://visitcount.itsvg.in/api?id=binodkapadi&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]  
-![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg" 
+     style="border: 3px solid #ffcc00; border-radius: 10px;" />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binu3421) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binod901) 
