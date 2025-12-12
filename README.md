@@ -11,13 +11,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&theme=tokyonight&hide_border=false&border_color=ffcc00" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.herokuapp.com/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
 </p>
 
 
