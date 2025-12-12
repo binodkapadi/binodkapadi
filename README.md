@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Binod Kapadi<br>🧑‍💻 AI/ML Engineer | Data Scientist | Data Engineer | Full-Stack Developer | MLOps | Student & Self-Learner<br><br>🔭 I’m currently working on:<br>Building AI/ML models, data pipelines, and full-stack applications.<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, MLOps pipelines, and innovative web apps.<br><br>🤝 I’m looking for help with:<br>Deploying large-scale machine learning systems and improving model performance.<br><br>🌱 I’m currently learning:<br>Advanced Deep Learning, Data Engineering workflows, and modern MLOps tools.<br><br>💬 Ask me about:<br>AI/ML model training & testing, Python, Data Science, Data Engineering, Full-Stack Development, APIs, and Agents.<br><br>⚡ Fun fact:<br>I love turning ideas into automated intelligent systems!<br>
+👋 Hi, I'm Binod Kapadi<br>🧑‍💻 AI/ML Engineer || Data Scientist || Data Engineer || Full-Stack Developer || MLOps || Student & Self-Learner<br><br>🔭 I’m currently working on:<br>Building AI/ML models, data pipelines, and full-stack applications.<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, MLOps pipelines, and innovative web apps.<br><br>🤝 I’m looking for help with:<br>Deploying large-scale machine learning systems and improving model performance.<br><br>🌱 I’m currently learning:<br>Advanced Deep Learning, Data Engineering workflows, and modern MLOps tools.<br><br>💬 Ask me about:<br>AI/ML model training & testing, Python, Data Science, Data Engineering, Full-Stack Development, APIs, and Agents.<br><br>⚡ Fun fact:<br>I love turning ideas into automated intelligent systems!<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binodkapadi&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -27,7 +30,7 @@
 ### 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]  
 ![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
 
-## 💰 You can help me by Donating
+  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binu3421) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binod901) 
 
   
