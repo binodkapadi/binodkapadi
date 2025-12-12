@@ -2,7 +2,7 @@
 👋 Hi, I'm Binod Kapadi<br>🧑‍💻 AI/ML Engineer || Data Scientist || Data Engineer || Full-Stack Developer || MLOps || Student & Self-Learner<br><br>🔭 I’m currently working on:<br>Building AI/ML models, data pipelines, and full-stack applications.<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, MLOps pipelines, and innovative web apps.<br><br>🤝 I’m looking for help with:<br>Deploying large-scale machine learning systems and improving model performance.<br><br>🌱 I’m currently learning:<br>Advanced Deep Learning, Data Engineering workflows, and modern MLOps tools.<br><br>💬 Ask me about:<br>AI/ML model training & testing, Python, Data Science, Data Engineering, Full-Stack Development, APIs, and Agents.<br><br>⚡ Fun fact:<br>I love turning ideas into automated intelligent systems!<br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hackerboy_0)    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/royalbinod.kapadi)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binodbhatt9865)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binodkapadi)    [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binodbhatt)    [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hackedbinu_23)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kapadibinod)    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@errevolution1)    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binoddattkapadi@gmail.com)    [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF.svg?logo=vercel&logoColor=white)](https://binodkapadi.github.io/portfolio/)
 
 
@@ -47,7 +47,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 
-# 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]: 
+## 🐍 My contribution snake [Thanks for Visiting my GitHub Profile!]: 
 ![Snake dark](https://raw.githubusercontent.com/binodkapadi/binodkapadi/output/github-contribution-grid-snake-dark.svg)
 
 
@@ -67,7 +67,7 @@
      - 🔢 LeetCode + DSA Practice Repo(C++ & Java)
 
 
-# 💰 You can help me by Donating:
+## 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binu3421) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binod901) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
