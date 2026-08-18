@@ -34,8 +34,8 @@
 
 # 📊 Current GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&cache_seconds=86400&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ### GitHub Streaks 🔥
