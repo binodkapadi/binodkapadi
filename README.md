@@ -32,15 +32,17 @@
 `Jupyter` • `Postman` • `Figma` • `Canva`
 
 
-# 📊 Current GitHub Stats:
+# 📊 Current GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodkapadi&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodkapadi&layout=compact&theme=tokyonight" height="180" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
-### GitHub Streaks 🔥
+### 🔥 GitHub Streaks
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=binodkapadi&theme=tokyonight&hide_border=false&border_color=ffcc00&include_all_commits=true" height="180" />
+  <img src="./profile/streak.svg" height="180" alt="GitHub Streak" />
 </p>
 
 
