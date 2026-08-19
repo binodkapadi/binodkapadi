@@ -2,8 +2,13 @@ name: Update Top Contributed Repositories
 
 on:
   schedule:
+    # Runs every day at 02:00 UTC
     - cron: "0 2 * * *"
+
+  # Allows manual execution from GitHub Actions
   workflow_dispatch:
+
+  # Automatically runs when this workflow itself is changed
   push:
     paths:
       - ".github/workflows/top-contributed-repos.yml"
@@ -18,23 +23,32 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Get top contributed repositories
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: binodkapadi
         run: |
+          set -e
+
+          echo "Fetching GitHub contribution data..."
+
           gh api graphql \
             -f username="$GITHUB_USERNAME" \
             -f query='
               query($username: String!) {
                 user(login: $username) {
+                  login
                   contributionsCollection {
-                    commitContributionsByRepository(maxRepositories: 25) {
+                    commitContributionsByRepository(
+                      maxRepositories: 25
+                    ) {
                       repository {
                         nameWithOwner
-                        url
                         name
+                        url
                         description
                         stargazerCount
                         primaryLanguage {
@@ -50,35 +64,118 @@ jobs:
               }
             ' > /tmp/contributions.json
 
+          echo "Validating GitHub API response..."
+
+          python3 <<'PY'
+          import json
+          import sys
+
+          path = "/tmp/contributions.json"
+
+          with open(path, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # Check GraphQL errors
+          if data.get("errors"):
+              print("GitHub GraphQL API returned errors:")
+              for error in data["errors"]:
+                  print(error)
+              sys.exit(1)
+
+          # Check expected response structure
+          user = data.get("data", {}).get("user")
+
+          if not user:
+              print("ERROR: GitHub user data was not returned.")
+              print(json.dumps(data, indent=2))
+              sys.exit(1)
+
+          collection = user.get("contributionsCollection")
+
+          if collection is None:
+              print("ERROR: contributionsCollection was not returned.")
+              print(json.dumps(data, indent=2))
+              sys.exit(1)
+
+          repos = collection.get("commitContributionsByRepository")
+
+          if repos is None:
+              print("ERROR: commitContributionsByRepository was not returned.")
+              print(json.dumps(data, indent=2))
+              sys.exit(1)
+
+          if not repos:
+              print("ERROR: No contributed repositories were returned.")
+              sys.exit(1)
+
+          print(f"Found {len(repos)} contributed repositories.")
+
+          with open("/tmp/validated.json", "w", encoding="utf-8") as f:
+              json.dump(repos, f, indent=2)
+
+          print("Contribution data validated successfully.")
+          PY
+
+      - name: Update README
+        run: |
           python3 <<'PY'
           import json
           import re
+          import sys
 
-          with open("/tmp/contributions.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+          USERNAME = "binodkapadi"
+          README_PATH = "README.md"
 
-          repos = data["data"]["user"]["contributionsCollection"]["commitContributionsByRepository"]
+          with open("/tmp/validated.json", "r", encoding="utf-8") as f:
+              repos = json.load(f)
 
-          repos = sorted(
-              repos,
-              key=lambda x: x["contributions"]["totalCount"],
+          # Remove repositories with invalid contribution data
+          valid_repos = []
+
+          for item in repos:
+              repo = item.get("repository")
+              contributions = item.get("contributions")
+
+              if not repo or not contributions:
+                  continue
+
+              count = contributions.get("totalCount", 0)
+
+              if count <= 0:
+                  continue
+
+              valid_repos.append(item)
+
+          # Sort by contribution count
+          valid_repos.sort(
+              key=lambda item: item["contributions"]["totalCount"],
               reverse=True
-          )[:10]
+          )
+
+          # Keep top 10
+          valid_repos = valid_repos[:10]
+
+          if not valid_repos:
+              print("ERROR: No valid repositories found.")
+              sys.exit(1)
 
           lines = [
               "| Repository | Contributions | Stars | Language |",
               "|---|---:|---:|---|"
           ]
 
-          for item in repos:
+          for item in valid_repos:
               repo = item["repository"]
+
               name = repo["nameWithOwner"]
               url = repo["url"]
               contributions = item["contributions"]["totalCount"]
               stars = repo["stargazerCount"]
+
+              language_data = repo.get("primaryLanguage")
               language = (
-                  repo["primaryLanguage"]["name"]
-                  if repo["primaryLanguage"]
+                  language_data["name"]
+                  if language_data
                   else "N/A"
               )
 
@@ -88,38 +185,65 @@ jobs:
 
           table = "\n".join(lines)
 
-          readme_path = "README.md"
-
-          with open(readme_path, "r", encoding="utf-8") as f:
+          with open(README_PATH, "r", encoding="utf-8") as f:
               readme = f.read()
 
-          pattern = r"<!-- TOP-CONTRIBUTED-REPOS:START -->.*?<!-- TOP-CONTRIBUTED-REPOS:END -->"
+          start_marker = "<!-- TOP-CONTRIBUTED-REPOS:START -->"
+          end_marker = "<!-- TOP-CONTRIBUTED-REPOS:END -->"
+
+          if start_marker not in readme or end_marker not in readme:
+              print("ERROR: README markers were not found.")
+              sys.exit(1)
+
+          pattern = re.escape(start_marker) + r".*?" + re.escape(end_marker)
 
           replacement = (
-              "<!-- TOP-CONTRIBUTED-REPOS:START -->\n"
-              + table +
-              "\n"
-              + "<!-- TOP-CONTRIBUTED-REPOS:END -->"
+              start_marker
+              + "\n"
+              + table
+              + "\n"
+              + end_marker
           )
 
-          readme = re.sub(
+          updated_readme, count = re.subn(
               pattern,
               replacement,
               readme,
+              count=1,
               flags=re.DOTALL
           )
 
-          with open(readme_path, "w", encoding="utf-8") as f:
-              f.write(readme)
+          if count != 1:
+              print("ERROR: Could not update the contribution section.")
+              sys.exit(1)
+
+          with open(README_PATH, "w", encoding="utf-8") as f:
+              f.write(updated_readme)
+
+          print("README.md updated successfully.")
+          print()
+          print(table)
           PY
 
-      - name: Commit updated contribution data
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No README changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "README changes detected."
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
-          git commit -m "Update top contributed repositories" || exit 0
+          git commit -m "Update top contributed repositories"
 
           git push
