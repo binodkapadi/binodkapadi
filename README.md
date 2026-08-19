@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hackerboy_0)    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/royalbinod.kapadi)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binodbhatt9865)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binodkapadi)    [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binodbhatt)    [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hackedbinu_23)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kapadibinod)    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@errevolution1)    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binoddattkapadi@gmail.com)    [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF.svg?logo=vercel&logoColor=white)](https://binodkapadi.github.io/portfolio/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hackerboy_0)    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/royalbinod.kapadi)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binodbhatt9865)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binodkapadi)    [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binodbhatt)    [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hackedbinu_23)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kapadibinod)    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@errevolution1)    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binoddattkapadi@gmail.com)    [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF.svg?logo=vercel&logoColor=white)](https://binodkapadi.com.np/)
 
 
 # 💻 Tech Stack:
@@ -53,11 +53,9 @@
 
 ### 🔝 Top Contributed Repositories
 
-<p align="center">
-  <a href="https://github.com/binodkapadi?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories">
-  </a>
-</p>
+<!-- TOP-CONTRIBUTED-REPOS:START -->
+Updating contribution data...
+<!-- TOP-CONTRIBUTED-REPOS:END -->
 
 
 ### 🐍 Thanks for Visiting my GitHub Profile : 
