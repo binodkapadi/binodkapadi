@@ -51,11 +51,13 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=binodkapadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
 
----
-[![](https://visitcount.itsvg.in/api?id=binodkapadi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/binodkapadi?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories">
+  </a>
+</p>
 
 
 ### 🐍 Thanks for Visiting my GitHub Profile : 
