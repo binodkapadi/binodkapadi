@@ -58,9 +58,9 @@
 |---|---:|---:|---|
 | [binodkapadi/DSA-Challange-LeetCode](https://github.com/binodkapadi/DSA-Challange-LeetCode) | **361** | ⭐ 4 | N/A |
 | [binodkapadi/30-Days-DSA-Bootcamp-Unstop](https://github.com/binodkapadi/30-Days-DSA-Bootcamp-Unstop) | **303** | ⭐ 1 | N/A |
-| [binodkapadi/binodkapadi](https://github.com/binodkapadi/binodkapadi) | **50** | ⭐ 1 | N/A |
+| [binodkapadi/binodkapadi](https://github.com/binodkapadi/binodkapadi) | **52** | ⭐ 1 | N/A |
 | [binodkapadi/PG_Life](https://github.com/binodkapadi/PG_Life) | **14** | ⭐ 1 | HTML |
-| [binodkapadi/personal_portfolio](https://github.com/binodkapadi/personal_portfolio) | **8** | ⭐ 0 | HTML |
+| [binodkapadi/personal_portfolio](https://github.com/binodkapadi/personal_portfolio) | **8** | ⭐ 1 | HTML |
 | [binodkapadi/CODSOFT](https://github.com/binodkapadi/CODSOFT) | **2** | ⭐ 1 | Jupyter Notebook |
 | [binodkapadi/Code_Explainer](https://github.com/binodkapadi/Code_Explainer) | **1** | ⭐ 1 | Python |
 <!-- TOP-CONTRIBUTED-REPOS:END -->
