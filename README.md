@@ -56,7 +56,7 @@
 <!-- TOP-CONTRIBUTED-REPOS:START -->
 | Repository | Contributions | Stars | Language |
 |---|---:|---:|---|
-| [binodkapadi/DSA-Challange-LeetCode](https://github.com/binodkapadi/DSA-Challange-LeetCode) | **391** | ⭐ 4 | N/A |
+| [binodkapadi/DSA-Challange-LeetCode](https://github.com/binodkapadi/DSA-Challange-LeetCode) | **392** | ⭐ 4 | N/A |
 | [binodkapadi/30-Days-DSA-Bootcamp-Unstop](https://github.com/binodkapadi/30-Days-DSA-Bootcamp-Unstop) | **303** | ⭐ 1 | N/A |
 | [binodkapadi/binodkapadi](https://github.com/binodkapadi/binodkapadi) | **52** | ⭐ 1 | N/A |
 | [binodkapadi/personal_portfolio](https://github.com/binodkapadi/personal_portfolio) | **8** | ⭐ 1 | HTML |
